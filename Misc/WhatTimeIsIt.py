@@ -1,3 +1,3 @@
 import time as *
 
-print(localtime)
+print(localtime())
